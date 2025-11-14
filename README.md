@@ -80,3 +80,10 @@ business-driven decision, not a technical compromise.
 - Cluster stores by price sensitivity and adjust pricing selectively (especially Kiambu Rd, Thome, and Utawala Express).
 - Introduce premium variants in categories where Bidco is winning on low price (Cereals, Detergents).
 - Strengthen distribution and visibility in categories where pricing is competitive but share lags (White Fats and Vegetable Oil).
+
+# NOTEBOOK USAGE
+- Click the COLAB [link](https://colab.research.google.com/github/stkisengese/duck-bidco-retail-insights/blob/main/data_analysis.ipynb) inside the notebook at the top
+- Check the Test_Data.xlsx inside drive directory. The filepath should be as follows(or edit this part according to your path)
+  ```python
+  file_path = "drive/MyDrive/Test_Data.xlsx"
+  ```
